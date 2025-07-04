@@ -33,6 +33,7 @@ ARCHON explores adaptive fault tolerance in hardware, where entropy-triggered re
 
 Waveform screenshots + simulation logs included in `/waveforms` and `/simulation_logs`.
 
-## 📫 Contact
+📬 Want to collaborate?  
+I'm looking for lab/startup partners for Fall 2025.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/joshua-carter-898868356/) or [joshuathomascarter@gmail.com](mailto:joshtcarter0710@gmail.com)
 
-Feel free to reach out if this aligns with your lab, startup, or research interests.
