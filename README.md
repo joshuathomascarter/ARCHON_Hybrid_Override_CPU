@@ -21,7 +21,7 @@ This system includes:
 
 ## 📸 Demo Preview
 
-![Demo Thumbnail](demo/demo_thumbnail.png)
+![Uploading video Banner.png…]()
 
 ▶️ [Watch the demo video](link will go here)
 
@@ -35,5 +35,5 @@ Waveform screenshots + simulation logs included in `/waveforms` and `/simulation
 
 📬 Want to collaborate?  
 I'm looking for lab/startup partners for Fall 2025.  
-Reach out via [LinkedIn](https://www.linkedin.com/in/joshua-carter-898868356/) or [joshuathomascarter@gmail.com](mailto:joshtcarter0710@gmail.com)
+Reach out via [LinkedIn](https://www.linkedin.com/in/joshua-carter-898868356/) or [joshtcarter0710@gmail.com]
 
