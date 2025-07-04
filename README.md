@@ -20,8 +20,7 @@ This system includes:
 - `demo/` — Live walkthrough and waveform logs
 
 ## 📸 Demo Preview
-
-![Uploading video Banner.png…]()
+![video Banner](https://github.com/user-attachments/assets/13a63ee1-5871-4d97-89d0-d2ed6ff4bc94)
 
 ▶️ [Watch the demo video](link will go here)
 
