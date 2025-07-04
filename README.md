@@ -13,8 +13,7 @@ This system includes:
 
 ## 📂 Repository Structure
 
-- `archon_top.v` — Top-level integration
-- `pipeline_cpu.v` — CPU core with override logic
+- `control_unit.v' — completed verilog module
 - `fsm_entropy_overlay.v` — FSM with override detection
 - `archon_top_testbench.v` — Full testbench for simulation
 - `docs/` — FSM diagrams, writeups, architectural diagrams
